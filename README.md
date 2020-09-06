@@ -1,6 +1,6 @@
 JS Exercise
 ===================================
-![Assignment Checks](https://github.com/IT3049C/2.JS-Exercise/workflows/Assignment%20Checks/badge.svg)
+![Assignment Checks](https://s///github.com/IT3049C-Fall20/2-javascript-exercise-kootinja/workflows/Assignment%20Checks/badge.svg)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/2.JavaScript_Exercises/).
 
@@ -9,14 +9,16 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ```md
 - [x] This task is complete.
 ```
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] All Unit tests passed.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
-how many points out of 20 do you deserve on this assignment: 
+how many points out of 20 do you deserve on this assignment: 20/20
 
 ## Self-Reflection:
+During this assignment, I was able to challenge myself with using the different functions within JavaScript. The main issue I had when doing this lab is that I ran into errors when running the tests in my terminal. Howvever, many people had the same questions I had within Teams and when I asked a question within Teams it was a minor mistake that I didn't catch. Nevertheless, I was still able to finish my work in a timely manner.
 
 
 ### How long it took me to finish this?
+2 hours
