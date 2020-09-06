@@ -10,12 +10,12 @@ function subtract (num1, num2) {
 
 //multiply: Should be able to multiply with precision
 function multiply(num1, num2) {
-  //return Number(num1) * Number (num2);
+  return Number(num1) * Number (num2);
 }
 
 //parseInt: should use parseInt correctly to convert strings to integer numbers
 function parseInt (str) {
-  //return Number.parseInt(str, 10);
+  return Number.parseInt(str, 10);
 }
 
 //addAndReturn2DecimalPlaces: should return a number value, rounded to 2 decimal places
