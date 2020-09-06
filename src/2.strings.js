@@ -15,7 +15,8 @@ function reverseString(str) {
 //capitalize: should return the input in all-caps
 // Example: "this is a string" => "THIS IS A STRING"
 function capitalize(str) {
-  return str.toUpperCase;
+  const result = str.toUpperCase();
+  return result;
 }
 
 // splitString: should divide a string into substrings and return an array
