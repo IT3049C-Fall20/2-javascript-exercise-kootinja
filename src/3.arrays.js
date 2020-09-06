@@ -30,7 +30,7 @@ function append(arr, item) {
 // Truncate: you should be able to remove the last item of an array
 // hint: pop, slice, splice would all work. Pay attention to the return value in the docs
 function truncate(arr) {
-  return ;
+  return arr.splice(0, 2);
 }
 
 // Concat: you should be able to join together two arrays
